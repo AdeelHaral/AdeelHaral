@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m a Data Science and Analytics Developer with a background in building data-driven solutions for stakeholders. I’m currently leveling up my technical skills through an MSc in Data Science at BHT Berlin. I specialize in turning raw data into clear, actionable insights, and I’m now looking for a Werkstudent or Internship position where I can apply my experience to help a team solve complex data challenges here in Germany
+Working Student Data Engineering Based in Berlin.
+Profiecent in Python, SQL , Airflow, Dbt, Data Warehousing and Medallion Architecture .
+Multi-lingual in English C1 and German B2.
 
 
 ## 🌐 Socials:
