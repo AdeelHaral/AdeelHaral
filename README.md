@@ -1,6 +1,6 @@
 # 💫 About Me:
 Working Student Data Engineering Based in Berlin.
-Profiecent in Python, SQL , Airflow, Dbt, Data Warehousing and Medallion Architecture .
+Profiecent in Python, SQL , Airflow, Dbt, Data Warehousing (BigQuery, Snowflake, Redshift, Postgres) and Medallion Architecture .
 Multi-lingual in English C1 and German B2.
 
 
