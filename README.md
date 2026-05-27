@@ -2,7 +2,7 @@
 Experienced Data Engineer Based in Berlin.
 Proficent in Python, SQL , Airflow, Airbyte, Dbt, Data Warehousing (BigQuery, Snowflake, Redshift, Postgres) and Medallion Architecture .
 Project Management tools like Jira,Trello
-Dashboardin Metabase and Tableau
+Dashboarding in Metabase and Tableau
 Multi-lingual in English C1 and German B2.
 
 
