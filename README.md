@@ -1,5 +1,5 @@
-# Summary:
-Experienced Data Engineer Based in Berlin.
+# About me:
+Data Engineer Based in Berlin.
 Proficent in Python, SQL , Airflow, Airbyte, Dbt, Data Warehousing (BigQuery, Snowflake, Redshift, Postgres), kimball Star Schema, Snowflake Schema and Medallion Architecture .
 Project Management tools like Jira,Trello
 Dashboarding in Metabase and Tableau
